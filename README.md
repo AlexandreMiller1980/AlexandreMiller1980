@@ -4,7 +4,7 @@
 
 - 🔭 Hoje trabalho com analise de sistemas
 - 🌱 Estudando linguagens Java C# .NET
-- 😄 Pronouns: meu/nosso
+- 😄 Si Vis pacem para bellum
 
 <div align="center">
   <a href="https://github.com/AlexandreMiller1980">
