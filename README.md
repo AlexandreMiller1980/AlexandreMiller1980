@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com analise de sistemas
+- 🔭 Hoje trabalho com analise de sistemas e front-end
 - 🌱 Estudando linguagens Java C# .NET
 - 😄 Si Vis pacem para bellum
 
